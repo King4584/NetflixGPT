@@ -82,7 +82,7 @@ Live Demo : ([Live Demo](https://netflixgpt-4pnn.onrender.com/))
 
 - Landing Page
 
-  ![Landing Page][(https://github.com/King4584/NetflixGPT/blob/main/public/screenshot/01-Landing.png)]
+  ![Landing Page](https://github.com/King4584/NetflixGPT/blob/main/public/screenshot/01-Landing.png)
 
 - Signin Page
 
