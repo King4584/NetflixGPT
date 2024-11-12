@@ -76,7 +76,7 @@ npm start
 
 ## Screen Shot
 
-Live Demo : [Live Demo]([https://okneeraj.github.io/netflix-gpt "Live Demo"](https://netflixgpt-4pnn.onrender.com/))
+Live Demo : [Live Demo](["Live Demo"](https://netflixgpt-4pnn.onrender.com/))
 
 ## Screen Shot
 
