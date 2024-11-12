@@ -112,7 +112,7 @@ Live Demo : ([Live Demo](https://netflixgpt-4pnn.onrender.com/))
 
 - Watch Now Page
 
-  ![Watch Now Page]([https://okneeraj.github.io/netflix-gpt/screenshot/](https://github.com/King4584/NetflixGPT/blob/main/public/screenshot/)08-Watch.png)
+  ![Watch Now Page](https://github.com/King4584/NetflixGPT/blob/main/public/screenshot/08-Watch.png)
 
 # 💖 Support This Project
 
