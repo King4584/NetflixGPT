@@ -1,6 +1,6 @@
 const validate = (emailPhone, password, confirmPassword) => {
   const errors = {};
-
+  //utsavanand4584@gmail.com
   const emailRegex = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
   const phoneRegex = /^[0-9]{10}$/;
 
