@@ -16,6 +16,8 @@ npx create-react-app netflix-gpt
 REACT_APP_BASE_URL = YOUR_APPLICATION_BASE_URL; // http://localhost:300
 REACT_APP_OPENAI_KEY = YOUR_API_KEY_WILL_HERE;
 REACT_APP_TMDB_KEY = YOUR_API_KEY_WILL_HERE;
+REACT_APP_FIREBASE_KEY = YOUR_FIREBASE_KEY
+REACT_APP_FIREBASE_APP_ID = YOUR_FIREBASE_APP_ID
 ```
 
 - Install and init tailwind css
@@ -86,31 +88,31 @@ Live Demo : ([Live Demo](https://netflixgpt-4pnn.onrender.com/))
 
 - Signin Page
 
-  ![Signin Page](https://okneeraj.github.io/netflix-gpt/screenshot/02-Signin.png)
+  ![Signin Page](https://github.com/King4584/NetflixGPT/blob/main/public/screenshot/02-Signin.png)
 
 - Signup Page
 
-  ![Signup Page](https://okneeraj.github.io/netflix-gpt/screenshot/03-Signup.png)
+  ![Signup Page](https://github.com/King4584/NetflixGPT/blob/main/public/screenshot/03-Signup.png)
 
 - Browse Page
 
-  ![Browse Page](https://okneeraj.github.io/netflix-gpt/screenshot/04-Browse.png)
+  ![Browse Page](https://github.com/King4584/NetflixGPT/blob/main/public/screenshot/04-Browse.png)
 
 - Movie List
 
-  ![Movie List](https://okneeraj.github.io/netflix-gpt/screenshot/05-Movie-List.png)
+  ![Movie List](https://github.com/King4584/NetflixGPT/blob/main/public/screenshot/05-Movie-List.png)
 
 - Shimmer Loading
 
-  ![Shimmer Loading](https://okneeraj.github.io/netflix-gpt/screenshot/06-Shimmer-loading.png)
+  ![Shimmer Loading](https://github.com/King4584/NetflixGPT/blob/main/public/screenshot/06-Shimmer-loading.png)
 
 - Search Page
 
-  ![Search Page](https://okneeraj.github.io/netflix-gpt/screenshot/07-Search.png)
+  ![Search Page](https://github.com/King4584/NetflixGPT/blob/main/public/screenshot/07-Search.png)
 
 - Watch Now Page
 
-  ![Watch Now Page](https://okneeraj.github.io/netflix-gpt/screenshot/08-Watch.png)
+  ![Watch Now Page]([https://okneeraj.github.io/netflix-gpt/screenshot/](https://github.com/King4584/NetflixGPT/blob/main/public/screenshot/)08-Watch.png)
 
 # 💖 Support This Project
 
