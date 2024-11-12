@@ -76,7 +76,7 @@ npm start
 
 ## Screen Shot
 
-Live Demo : (["[Live Demo]"](https://netflixgpt-4pnn.onrender.com/))
+Live Demo : ([Live Demo](https://netflixgpt-4pnn.onrender.com/))
 
 ## Screen Shot
 
